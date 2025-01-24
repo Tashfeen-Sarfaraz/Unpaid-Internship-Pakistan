@@ -1,0 +1,37 @@
+Create a website for "Internship Pakistan"
+(Frontend Developers | Jan-Feb Cohort 2025)
+Objective:
+Design and develop the frontend for the "Internship Pakistan" website, where students can explore, apply for, and complete virtual internships. The site should have a modern and professional look, with a focus on user experience and responsiveness.
+Task Details:
+Project Requirements:
+1. Website Name: Internship Pakistan
+2. Pages to Include:
+Home Page:
+A hero section with a clear call-to-action button ("Explore Internships") and a brief introduction about the platform.
+Sections for.
+INTERN
+Featured Internships: Display top opportunities.
+Testimonials: Showcase feedback from past interns.
+Navigation Bar: Sticky header with links to Home, Internships, About Us, Contact, Apply Now.
+• Internship Listings Page:
+A list of internships with filters for categories like duration, type, or location.
+Display internship details: title, company name, location, duration, and an "Apply" button.
+About Us Page:
+Information about the platform's mission and the team.
+A brief history or timeline of the platform.
+Contact Us Page:
+
+Contact form for inquiries and feedback (fields for Name, Email, Subject, Message).
+Contact information and location map (optional).
+3. Design Guidelines:
+Use a navy blue and white color scheme for a professional and clean look.
+Use modern typography (e.g., Google Fonts) for clarity and engagement.
+4. Technology to Use:
+HTML5 for structure.
+0 CSS3 for styling (consider using a CSS framework like Bootstrap, Tailwind, or custom styles).
+D JavaScript for form validation, search/filter functionality, and interactive elements.
+Optional: Use React.js or another frontend framework to build reusable components and manage the site more effectively.
+Duration:
+Complete the task within 5 days (Before 24th Jan 2025).
+PAKISTAN
+Thanks
